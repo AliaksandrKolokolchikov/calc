@@ -12,6 +12,7 @@ body {
 }
 input {
     all: unset;
+    color: #fff;
 }
 button {
     all: unset;
@@ -36,6 +37,7 @@ button {
     text-align: right;
     padding-top: 70px;
     font-size: 50px;
+    max-lines: 11;
 }
 ::placeholder {
     color: #fff;
